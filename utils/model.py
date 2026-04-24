@@ -13,7 +13,10 @@ Defect detection: YOLO-only, unchanged
 import streamlit as st
 import torch
 import torch.nn as nn
-import cv2
+try:
+    import cv2
+except ImportError:
+    cv2 = None
 import numpy as np
 from PIL import Image
 from torchvision import models

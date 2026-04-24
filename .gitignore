@@ -6,6 +6,7 @@ __pycache__/
 .env
 *.log
 *.pth
+*.pt
 .vscode/
 SteelSenseAI.zip
 firebase_key.json
