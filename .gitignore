@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+*.pth
+.vscode/
+SteelSenseAI.zip
+firebase_key.json
