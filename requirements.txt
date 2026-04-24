@@ -6,7 +6,7 @@ torchvision==0.17.2
 
 # ── Vision / Detection ────────────────────────────────────────────────────────
 ultralytics==8.1.0
-opencv-python-headless==4.9.0.80
+opencv-python-headless==4.8.1.78
 Pillow==10.2.0
 
 # ── App / UI ──────────────────────────────────────────────────────────────────
